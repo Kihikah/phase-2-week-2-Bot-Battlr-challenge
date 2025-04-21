@@ -62,24 +62,23 @@ bot-battlr/
 
 ### 1. Clone the Repository
 
-```bash```
-git clone https://github.com/Kihikah/phase-2-week-2-Bot-Battlr-challenge
-cd bot-battlr
+- git clone https://github.com/Kihikah/phase-2-week-2-Bot-Battlr-challenge
+- cd phase-2-week-2-Bot-Battlr-challenge
 
 ### 🛠️ 2. Install Dependencies
 
-npm install
+``npm install``
 
 ### 3. Run the Backend (JSON Server)
 
-npx ```json-server --watch db.json --port 8001```
+```json-server --watch db.json --port 8001```
 
 Verify the API:
 Visit **http://localhost:8001/bots** in your browser.
 
 ### 4. Start the Frontend
 
-npm run dev
+``npm run dev``
 
 Open your browser to:
 **http://localhost:5173** (if using Vite)
