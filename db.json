@@ -1,0 +1,204 @@
+{
+  "bots": [
+    {
+      "id": 1,
+      "name": "wHz-93",
+      "health": 94,
+      "damage": 20,
+      "armor": 63,
+      "bot_class": "Support",
+      "catchphrase": "Support Care",
+      "avatar_url": "https://robohash.org/whz93.png?size=300x300&set=set1"
+    },
+    {
+      "id": "2",
+      "name": "RyM-66",
+      "health": 86,
+      "damage": 36,
+      "armor": 77,
+      "bot_class": "Medic",
+      "catchphrase": "CareMate",
+      "avatar_url": "https://robohash.org/rym66.png?size=300x300&set=set1"
+    },
+    {
+      "id": "3",
+      "name": "X-Ploder",
+      "health": 45,
+      "damage": 90,
+      "armor": 35,
+      "bot_class": "Assault",
+      "catchphrase": "BOOM is my middle name.",
+      "avatar_url": "https://robohash.org/xploder.png?size=300x300&set=set1"
+    },
+    {
+      "id": "4",
+      "name": "Guardian-Z",
+      "health": 120,
+      "damage": 10,
+      "armor": 95,
+      "bot_class": "Defender",
+      "catchphrase": "Protect and survive.",
+      "avatar_url": "https://robohash.org/guardianz.png?size=300x300&set=set1"
+    },
+    {
+      "id": "5",
+      "name": "Captain Omega",
+      "health": 100,
+      "damage": 60,
+      "armor": 50,
+      "bot_class": "Captain",
+      "catchphrase": "For glory and bots!",
+      "avatar_url": "https://robohash.org/captainomega.png?size=300x300&set=set1"
+    },
+    {
+      "id": "6",
+      "name": "Hexa",
+      "health": 80,
+      "damage": 40,
+      "armor": 60,
+      "bot_class": "Witch",
+      "catchphrase": "I hex, therefore I am.",
+      "avatar_url": "https://robohash.org/hexa.png?size=300x300&set=set1"
+    },
+    {
+      "id": "7",
+      "name": "Fixer",
+      "health": 75,
+      "damage": 30,
+      "armor": 45,
+      "bot_class": "Medic",
+      "catchphrase": "Patch it up!",
+      "avatar_url": "https://robohash.org/fixer.png?size=300x300&set=set1"
+    },
+    {
+      "id": "8",
+      "name": "Thunderbolt",
+      "health": 60,
+      "damage": 85,
+      "armor": 20,
+      "bot_class": "Assault",
+      "catchphrase": "Speed kills.",
+      "avatar_url": "https://robohash.org/thunderbolt.png?size=300x300&set=set1"
+    },
+    {
+      "id": "9",
+      "name": "ShieldBro",
+      "health": 95,
+      "damage": 15,
+      "armor": 88,
+      "bot_class": "Defender",
+      "catchphrase": "Come at me bro!",
+      "avatar_url": "https://robohash.org/shieldbro.png?size=300x300&set=set1"
+    },
+    {
+      "id": "10",
+      "name": "Leader-X",
+      "health": 110,
+      "damage": 55,
+      "armor": 70,
+      "bot_class": "Captain",
+      "catchphrase": "Lead with fire.",
+      "avatar_url": "https://robohash.org/leaderx.png?size=300x300&set=set1"
+    },
+    {
+      "id": "11",
+      "name": "Sparkle",
+      "health": 50,
+      "damage": 25,
+      "armor": 40,
+      "bot_class": "Witch",
+      "catchphrase": "Magic circuits online.",
+      "avatar_url": "https://robohash.org/sparkle.png?size=300x300&set=set1"
+    },
+    {
+      "id": "12",
+      "name": "ByteHealer",
+      "health": 78,
+      "damage": 22,
+      "armor": 55,
+      "bot_class": "Support",
+      "catchphrase": "Restoring systems.",
+      "avatar_url": "https://robohash.org/bytehealer.png?size=300x300&set=set1"
+    },
+    {
+      "id": "13",
+      "name": "Zaptron",
+      "health": 40,
+      "damage": 95,
+      "armor": 10,
+      "bot_class": "Assault",
+      "catchphrase": "Zap and run!",
+      "avatar_url": "https://robohash.org/zaptron.png?size=300x300&set=set1"
+    },
+    {
+      "id": "14",
+      "name": "IronWall",
+      "health": 130,
+      "damage": 5,
+      "armor": 99,
+      "bot_class": "Defender",
+      "catchphrase": "Solid as steel.",
+      "avatar_url": "https://robohash.org/ironwall.png?size=300x300&set=set1"
+    },
+    {
+      "id": "15",
+      "name": "WitchyByte",
+      "health": 90,
+      "damage": 65,
+      "armor": 25,
+      "bot_class": "Witch",
+      "catchphrase": "Glitch witch engaged.",
+      "avatar_url": "https://robohash.org/witchybyte.png?size=300x300&set=set1"
+    },
+    {
+      "id": "16",
+      "name": "MetaDoc",
+      "health": 88,
+      "damage": 20,
+      "armor": 50,
+      "bot_class": "Medic",
+      "catchphrase": "Your health is my mission.",
+      "avatar_url": "https://robohash.org/metadoc.png?size=300x300&set=set1"
+    },
+    {
+      "id": "17",
+      "name": "BoomStick",
+      "health": 65,
+      "damage": 100,
+      "armor": 18,
+      "bot_class": "Assault",
+      "catchphrase": "Boom goes the bot!",
+      "avatar_url": "https://robohash.org/boomstick.png?size=300x300&set=set1"
+    },
+    {
+      "id": "18",
+      "name": "ForceField",
+      "health": 105,
+      "damage": 25,
+      "armor": 90,
+      "bot_class": "Defender",
+      "catchphrase": "Untouchable defense!",
+      "avatar_url": "https://robohash.org/forcefield.png?size=300x300&set=set1"
+    },
+    {
+      "id": "19",
+      "name": "Major Byte",
+      "health": 97,
+      "damage": 58,
+      "armor": 47,
+      "bot_class": "Captain",
+      "catchphrase": "Leading with logic.",
+      "avatar_url": "https://robohash.org/majorbyte.png?size=300x300&set=set1"
+    },
+    {
+      "id": "20",
+      "name": "PixieSpark",
+      "health": 70,
+      "damage": 50,
+      "armor": 30,
+      "bot_class": "Witch",
+      "catchphrase": "Charm loaded!",
+      "avatar_url": "https://robohash.org/pixiespark.png?size=300x300&set=set1"
+    }
+  ]
+}
