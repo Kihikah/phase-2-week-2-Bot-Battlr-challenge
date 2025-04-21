@@ -63,7 +63,7 @@ bot-battlr/
 ### 1. Clone the Repository
 
 ```bash```
-git clone https://github.com/Kihikah/bot-battlr.git
+git clone https://github.com/Kihikah/phase-2-week-2-Bot-Battlr-challenge
 cd bot-battlr
 
 ### 🛠️ 2. Install Dependencies
