@@ -32,6 +32,7 @@ Welcome to **Bot Battlr**, web app where you can browse through a collection of 
 
 ## 📁 Project Structure
 
+```
 bot-battlr/
 ├── public/
 │   └── index.html
@@ -48,7 +49,8 @@ bot-battlr/
 ├── db.json                    
 ├── package.json               
 ├── README.md                  
-└── vite.config.js     
+└── vite.config.js
+```    
 
 
 ---
@@ -60,17 +62,17 @@ bot-battlr/
 
 ### 1. Clone the Repository
 
-```bash
+```bash```
 git clone https://github.com/Kihikah/bot-battlr.git
 cd bot-battlr
 
-###🛠️ 2. Install Dependencies
+### 🛠️ 2. Install Dependencies
 
 npm install
 
 ### 3. Run the Backend (JSON Server)
 
-npx json-server --watch db.json --port 8001
+npx ```json-server --watch db.json --port 8001```
 
 Verify the API:
 Visit **http://localhost:8001/bots** in your browser.
@@ -80,9 +82,9 @@ Visit **http://localhost:8001/bots** in your browser.
 npm run dev
 
 Open your browser to:
-http://localhost:5173 (if using Vite)
+**http://localhost:5173** (if using Vite)
 
-### Short Vedio
+### Demo Vedio
 
 
 
